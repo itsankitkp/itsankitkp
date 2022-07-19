@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsankitkp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ankit Kumar Pandey
+- 👀 I’m interested in developing scalable softwares.
+- 🌱 I’m currently learning rust, python and go.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 Reach me at itsankitkp@gmail.com
 
 <!---
 itsankitkp/itsankitkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
